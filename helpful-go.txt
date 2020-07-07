@@ -1,0 +1,1 @@
+fmt.Printf("%+v\n", message) - debugging what message contains as a struct
